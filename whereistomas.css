@@ -1,0 +1,16 @@
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 96px;
+	color:#ccc;
+}
+
+p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 24px;
+}
+
+#where {
+	width:auto;
+	text-align: center;
+}
